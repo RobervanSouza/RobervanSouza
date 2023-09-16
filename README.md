@@ -13,43 +13,21 @@ Atualmente estou focado em desenvolvimento web.
 <hr>
 
 **Linguagens de Programação:**
-- JavaScript - TypeScript - TypeScript - HTML5 - CSS3 - Python
-
-
-
-
+- JavaScript - TypeScript - HTML5 - CSS3 - Python
 
 **Frameworks / Bibliotecas:**
-- React
-- Next.js
-- Sass
-- Styled-Components
-- Axios
-- Express
-- Node.js
-- React Native
-- MobX
-- React Router Dom
-- MUI (Material-UI)
+- React - Next.js - Sass - Styled-Components - Axios - Express - Node.js - React Native - React Router Dom - MUI (Material-UI)
 
 **Banco de Dados:**
-- MongoDB
-- PostgreSQL
+- MongoDB - PostgreSQL - MySLQ
 
 **metodologias e processos de desenvolvimento:**
-- Metodologia Agile
-- Scrum
-- Kanban
+- Metodologia Agile - Scrum - Kanban
 
 **Outras habilidades e ferramentas relevantes:**
-- Figma (para design)
-- Git e GitHub (para controle de versão e colaboração)
-- Microsserviços
-- Swagger (para documentação de API)
-- Stack Overflow (como recurso de desenvolvimento)
-- Linux (especificamente Kali-Linux)
-- ChatGPT (uma referência ao uso da IA para auxílio)
-- Idiomas: Inglês (Técnico), Espanhol (Intermediário)
+- Figma (para design) - Git e GitHub (para controle de versão e colaboração) - Microsserviços - Swagger (para documentação de API)
+- Stack Overflow (como recurso de desenvolvimento) - Linux (especificamente Kali-Linux) - ChatGPT (uma referência ao uso da IA para auxílio)
+
 
 
 
