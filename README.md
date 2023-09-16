@@ -23,6 +23,8 @@ Atualmente estou focado em desenvolvimento web.
 **Banco de Dados:**
 - MongoDB - PostgreSQL - MySLQ
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 **Metodologias e processos de desenvolvimento:**
 - Metodologia Agile - Scrum - Kanban -Trello
 
@@ -30,7 +32,7 @@ Atualmente estou focado em desenvolvimento web.
 - Figma (para design) - Git e GitHub (para controle de versão e colaboração) - Swagger (para documentação de API)
 - Stack Overflow (como recurso de desenvolvimento) - Linux (especificamente Kali-Linux) - ChatGPT (uma referência ao uso da IA para auxílio)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <hr>
 
