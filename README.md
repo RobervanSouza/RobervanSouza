@@ -21,8 +21,8 @@ Atualmente estou focado em desenvolvimento web.
 **Banco de Dados:**
 - MongoDB - PostgreSQL - MySLQ
 
-**metodologias e processos de desenvolvimento:**
-- Metodologia Agile - Scrum - Kanban
+**Metodologias e processos de desenvolvimento:**
+- Metodologia Agile - Scrum - Kanban -Trello
 
 **Outras habilidades e ferramentas relevantes:**
 - Figma (para design) - Git e GitHub (para controle de versão e colaboração) - Microsserviços - Swagger (para documentação de API)
