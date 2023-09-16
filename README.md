@@ -46,6 +46,14 @@ Atualmente estou focado em desenvolvimento web.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 
+<div align="center">
+  <h2>GitHub Status: </h2>
+  <a href="https://github.com/viniciuslemos93">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslemos93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslemos93&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
 ### Banco de Dados:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
