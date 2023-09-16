@@ -3,13 +3,16 @@ Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 
 Atualmente estou focado em desenvolvimento web.
 
 
+<div>
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobervanSouza&show_icons=true&theme=radical)
 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobervanSouza&layout=compact&langs_count=7&theme=dark"/>
-
+</div>
 
 
 
