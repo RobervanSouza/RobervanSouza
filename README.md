@@ -2,16 +2,11 @@
 Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 fiz a transição para área de desenvolvimento de software, desenvolvendo diversos projetos pessoais, voluntario e bootcamps. 
 Atualmente estou focado em desenvolvimento web.
 
-
-
-
-<div align="center">
-  
+<div align="center">  
   <a href="https://github.com/RobervanSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobervanSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobervanSouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
 
 ## Minhas Ferramentas e Frameworks:
 
@@ -27,11 +22,9 @@ Atualmente estou focado em desenvolvimento web.
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![Tailwind ](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
-### Secundarias
+### Secundarias:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Axios](	https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -45,15 +38,6 @@ Atualmente estou focado em desenvolvimento web.
 ![Kali Linux](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
-
-<div align="center">
-  <h2>GitHub Status: </h2>
-  <a href="https://github.com/viniciuslemos93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslemos93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslemos93&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 
 ### Banco de Dados:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
