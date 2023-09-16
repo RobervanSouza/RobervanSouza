@@ -11,6 +11,11 @@ Atualmente estou focado em desenvolvimento web.
 </div>
 
 <hr>
+<div align="center">
+  <h2> Skils </h2>
+>
+</div>
+
 
 **Linguagens de Programação:**
 - JavaScript - TypeScript - HTML5 - CSS3 - Python
