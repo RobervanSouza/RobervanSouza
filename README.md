@@ -1,6 +1,6 @@
-### Olá Sou e Robervan Souza👋
-Sou formado em Full-Stack, trabalho com tecnoligia há mais de 13 anos, em 2021 fiz a transição para área de desenvolvimento de software, desenvolvendo diversos projetos pessoais, voluntario e bootcamps. 
-Atualmente trabalho com desenvolvimento web.
+### Olá Sou Robervan Souza👋
+Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 fiz a transição para área de desenvolvimento de software, desenvolvendo diversos projetos pessoais, voluntario e bootcamps. 
+Atualmente estou focado em desenvolvimento web.
 
 ## Minhas Ferramentas e Frameworks:
 
@@ -36,17 +36,19 @@ Atualmente trabalho com desenvolvimento web.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 
-
-
-
-
-
-
-
 ### Banco de Dados:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+### Contatos:
+
+<div> 
+<a href = "mailto:contato.robervansouza91@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/robervan-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
 
 
 - HTML, CSS e Javascript
