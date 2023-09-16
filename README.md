@@ -3,7 +3,7 @@ Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 
 Atualmente estou focado em desenvolvimento web.
 
 
-<div>
+<div align="center" >
 
 
 
