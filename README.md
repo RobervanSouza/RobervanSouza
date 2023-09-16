@@ -3,10 +3,11 @@ Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 
 Atualmente estou focado em desenvolvimento web.
 
  <div align="center">
-  <h2>GitHub Status: </h2>
-  <a href="https://github.com/viniciuslemos93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslemos93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslemos93&layout=compact&langs_count=7&theme=dark"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobervanSouza&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobervanSouza)](https://github.com/RobervanSouza/github-readme-stats)
+
 </div>
 
 
