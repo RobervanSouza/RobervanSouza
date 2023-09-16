@@ -1,4 +1,7 @@
-### Olá Sou Robervan Souza👋
+### Olá Sou Robervan Souza, Seja bem vindo 👨‍💻
+
+<hr>
+
 Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 fiz a transição para área de desenvolvimento de software. Atualmente estou desenvolvendo diversos projetos freelancer, pessoais e voluntario. 
 Atualmente estou focado em desenvolvimento web.
 
