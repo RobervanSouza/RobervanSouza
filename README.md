@@ -21,7 +21,7 @@ Com mais de 13 anos de experiência em tecnologia, fiz a transição para o dese
 
 
 **Frameworks / Bibliotecas:**
-- React - Next.js - Sass - Styled-Components - Axios - Express - Node.js - React Native - React Router Dom - MUI (Material-UI)
+- React - Next.js - Sass - Styled-Components - Axios - Express - Node.js - React Native - React Router Dom - MUI (Material-UI) - Tailwind
 
 **Banco de Dados:**
 - MongoDB - PostgreSQL - MySLQ
