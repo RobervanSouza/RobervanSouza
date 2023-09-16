@@ -1,5 +1,5 @@
 ### Olá Sou Robervan Souza👋
-Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 fiz a transição para área de desenvolvimento de software, desenvolvendo diversos projetos pessoais, voluntario e bootcamps. 
+Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 fiz a transição para área de desenvolvimento de software. Atualmente estou desenvolvendo diversos projetos freelancer, pessoais, voluntario e bootcamps. 
 Atualmente estou focado em desenvolvimento web.
 
 <hr>
