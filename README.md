@@ -7,6 +7,56 @@ Atualmente estou focado em desenvolvimento web.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobervanSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobervanSouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
+################################3
+
+**Linguagens de Programação:**
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Python
+
+**Frameworks / Bibliotecas:**
+- React
+- Next.js
+- Sass
+- Styled-Components
+- Axios
+- Express
+- Node.js
+- React Native
+- MobX
+- React Router Dom
+- MUI (Material-UI)
+
+**Banco de Dados:**
+- MongoDB
+- PostgreSQL
+
+**metodologias e processos de desenvolvimento:**
+- Metodologia Agile
+- Scrum
+- Kanban
+
+**Outras habilidades e ferramentas relevantes:**
+- Figma (para design)
+- Git e GitHub (para controle de versão e colaboração)
+- Microsserviços
+- Swagger (para documentação de API)
+- Stack Overflow (como recurso de desenvolvimento)
+- Linux (especificamente Kali-Linux)
+- ChatGPT (uma referência ao uso da IA para auxílio)
+- Idiomas: Inglês (Técnico), Espanhol (Intermediário)
+
+
+
+
+
+
+
+
+
+
 
 ## Minhas Ferramentas e Frameworks:
 
