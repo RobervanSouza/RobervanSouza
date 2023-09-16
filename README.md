@@ -5,11 +5,15 @@ Atualmente estou focado em desenvolvimento web.
 
 
 
-
-<div  align="center" style="margin-bottom:100px">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobervanSouza&show_icons=true&theme=radical)
+<div  align="center" style="margin-bottom:100px">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobervanSouza&layout=compact&langs_count=7&theme=dark"/>
  </div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RobervanSouza&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-RobervanSouza.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+
 
 
 ## Minhas Ferramentas e Frameworks:
