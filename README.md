@@ -2,9 +2,7 @@
 
 <hr>
 
-Sou formado em Full-Stack, trabalho com tecnologia há mais de 13 anos, em 2021 fiz a transição para área de desenvolvimento de software. Atualmente estou desenvolvendo diversos projetos freelancer, pessoais e voluntario. 
-Atualmente estou focado em desenvolvimento web.
-
+Com mais de 13 anos de experiência em tecnologia, fiz a transição para o desenvolvimento de software em 2021. Concluí um curso de desenvolvedor full-stack em 2023 e comecei a faculdade de Engenharia de Software em julho do mesmo ano. Atualmente, estou envolvido em projetos de desenvolvimento web, incluindo projetos freelance, pessoais e voluntários
 <hr>
 
 <div align="center">  
