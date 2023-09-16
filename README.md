@@ -11,7 +11,8 @@ Atualmente estou focado em desenvolvimento web.
 </div>
 
 <hr>
-**Minhas habilidades:**
+
+### Minhas habilidades:
 
 **Linguagens de Programação:**
 - JavaScript - TypeScript - HTML5 - CSS3 - Python
