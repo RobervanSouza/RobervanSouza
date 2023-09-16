@@ -30,7 +30,7 @@ Atualmente estou focado em desenvolvimento web.
 **Metodologias e processos de desenvolvimento:**
 - Metodologia Agile - Scrum - Kanban -Trello
 
-**Outras habilidades e ferramentas relevantes:**
+**Habilidades e ferramentas relevantes:**
 - Figma (para design) - Git e GitHub (para controle de versão e colaboração) - Swagger (para documentação de API)
 - Stack Overflow (como recurso de desenvolvimento) - Linux (especificamente Kali-Linux) - ChatGPT (uma referência ao uso da IA para auxílio)
 
