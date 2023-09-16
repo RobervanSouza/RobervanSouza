@@ -16,6 +16,8 @@ Atualmente estou focado em desenvolvimento web.
 
 **Linguagens de Programação:**
 - JavaScript - TypeScript - HTML5 - CSS3 - Python
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 **Frameworks / Bibliotecas:**
 - React - Next.js - Sass - Styled-Components - Axios - Express - Node.js - React Native - React Router Dom - MUI (Material-UI)
@@ -23,7 +25,7 @@ Atualmente estou focado em desenvolvimento web.
 **Banco de Dados:**
 - MongoDB - PostgreSQL - MySLQ
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 **Metodologias e processos de desenvolvimento:**
 - Metodologia Agile - Scrum - Kanban -Trello
@@ -43,24 +45,6 @@ Atualmente estou focado em desenvolvimento web.
 <a href="https://www.linkedin.com/in/robervan-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-
-
-- HTML, CSS e Javascript
-- Bootstrap
-- jQuery
-- React
-- PHP
-- Trello
-- Google Analytics
-- Google My Business
-- WordPress
-- WooCommerce
-<hr>
-
-- 👨‍🎓 I have technical training in IT.
-
-<hr>
 
 <div align="center">
   <h2>GitHub Status: </h2>
