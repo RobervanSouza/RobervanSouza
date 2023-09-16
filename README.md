@@ -27,9 +27,13 @@ Atualmente estou focado em desenvolvimento web.
 - Metodologia Agile - Scrum - Kanban -Trello
 
 **Outras habilidades e ferramentas relevantes:**
-- Figma (para design) - Git e GitHub (para controle de versão e colaboração) - Microsserviços - Swagger (para documentação de API)
+- Figma (para design) - Git e GitHub (para controle de versão e colaboração) - Swagger (para documentação de API)
 - Stack Overflow (como recurso de desenvolvimento) - Linux (especificamente Kali-Linux) - ChatGPT (uma referência ao uso da IA para auxílio)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+<hr>
 
 
 
@@ -38,22 +42,6 @@ Atualmente estou focado em desenvolvimento web.
 
 
 
-
-
-
-## Minhas Ferramentas e Frameworks:
-
-### Principais:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Sass](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![Tailwind ](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
