@@ -2,7 +2,7 @@
 
 <hr>
 
-Com mais de 03 anos de experiência em E-commerce, fiz a transição para o desenvolvimento de software em 2021. Concluí um curso de desenvolvedor full-stack em 2023 e comecei a faculdade de Engenharia de Software em julho do mesmo ano. Atualmente, estou envolvido em projetos de desenvolvimento web, incluindo projetos freelance, pessoais e voluntários.
+Sou formado em Desenvolvedor Full-Stack, com mais de 02 anos de experiência em desenvolvimento e mais de 10 anos trabalhando com tecnologia. Concluí um curso de desenvolvedor full-stack em 2023 e comecei a faculdade de Engenharia de Software em julho do mesmo ano. Atualmente, estou envolvido em projetos de desenvolvimento web, incluindo projetos freelance, pessoais e voluntários.
 <hr>
 
 <div align="center">  
