@@ -2,7 +2,7 @@
 
 <hr>
 
-Sou formado em Desenvolvedor Full-Stack, com mais de 02 anos de experiência em desenvolvimento e mais de 13 anos trabalhando com tecnologia. Concluí um curso de desenvolvedor full-stack em 2023 e comecei a faculdade de Engenharia de Software em julho do mesmo ano. Atualmente, estou desenvolvendo projetos web, incluindo projetos freelance, pessoais e voluntários.
+Sou formado em Desenvolvedor Full-Stack, com mais de 02 anos de experiência em desenvolvimento e mais de 13 anos trabalhando com tecnologia. Concluí um curso de desenvolvedor full-stack em 2023 e comecei a formação em Engenharia de Software em julho do mesmo ano. Atualmente, estou desenvolvendo projetos web, incluindo projetos freelance, pessoais e voluntários.
 <hr>
 
 <div align="center">  
