@@ -13,7 +13,7 @@ Sou formado em Desenvolvedor Full-Stack, com mais de 02 anos de experiência em 
 
 <hr>
 
-### Minhas habilidades:
+### Minhas Habilidades:
 
 **Linguagens de Programação:**
 - JavaScript - TypeScript - HTML5 - CSS3 - Python
