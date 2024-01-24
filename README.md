@@ -28,7 +28,7 @@ Sou formado em Desenvolvedor Full-Stack, com mais de 02 anos de experiência em 
 
 
 
-**Metodologias e processos de desenvolvimento:**
+**Metodologias e Processos de Desenvolvimento:**
 - Metodologia Agile - Scrum - Kanban -Trello
 
 **Habilidades e ferramentas relevantes:**
